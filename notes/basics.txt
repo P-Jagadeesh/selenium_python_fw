@@ -1,3 +1,2 @@
 names - jagadeesh
 hobbies -playing volleyball
-course - python selenium
